@@ -10,6 +10,5 @@ O projeto foi desenvolvido com intenção de melhorar minha performance, usando:
 </ul>
 
 ---
-<hr />
 
 Ao construir o clone spotify, ficou desenvolvido dessa forma <a href="https://lftho.github.io/clonespotify/"> clica aqui para visualizar</a>.
