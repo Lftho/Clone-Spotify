@@ -11,4 +11,4 @@ O projeto foi desenvolvido com intenção de melhorar minha performance, usando:
 
 ---
 
-Ao construir o clone spotify, ficou desenvolvido dessa forma <a href="https://lftho.github.io/clonespotify/"> clica aqui para visualizar</a>.
+Ao construir o clone spotify, ficou desenvolvido dessa forma <a href="https://lftho.github.io/clonespotify/" title="Clone Spotify"> clica aqui para visualizar</a>.
